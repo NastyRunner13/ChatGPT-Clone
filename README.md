@@ -83,13 +83,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - [OpenAI](https://openai.com/) for providing the API
 - [Express](https://expressjs.com/) for the web framework
 
-## Contact
-
-If you want to contact me, you can reach me at [your-email@example.com].
-
 ---
 
 Thank you for using the ChatGPT Clone Website! We hope you find it useful and informative. Happy coding!
 ```
-
-You can save this content in a file named `README.md` in the root directory of your project. This file provides comprehensive instructions and information about your ChatGPT Clone Website project.
